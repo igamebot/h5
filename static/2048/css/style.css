@@ -84,7 +84,7 @@ h1 {
 
 .container {
   margin: 0 auto;
-  padding-bottom: 3.5rem;
+  /*padding-bottom: 3.5rem;*/
   -webkit-box-flex: 1;
       -ms-flex: 1;
           flex: 1;
@@ -94,7 +94,7 @@ h1 {
 }
 header .container {
   padding: 0;
-  padding: 2rem 4rem;
+  padding: 9px 0px 0px;
   max-width: 900px;
 }
 
@@ -133,6 +133,7 @@ header .container {
   font-size: 1.5rem;
   vertical-align: middle;
   text-align: right;
+  height: 50px;
 }
 
 .game {
@@ -410,7 +411,7 @@ header .container {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  margin-top: 3rem;
+  margin-top: 9px;
 }
 .not-recommended * + * {
   margin-left: 10px;
