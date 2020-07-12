@@ -134,6 +134,7 @@ header .container {
   vertical-align: middle;
   text-align: right;
   height: 50px;
+  padding-top: 13px;
 }
 
 .game {
@@ -429,3 +430,5 @@ header .container {
 .not-recommended__item:active + .not-recommended__annotation:before {
   content: "😨";
 }
+
+
